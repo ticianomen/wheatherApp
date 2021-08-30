@@ -1,10 +1,17 @@
+html{
+  height: 100vh;
+}
+
 .App {
   text-align: center;
-}
-body{
-
+  background-color: red;
+  height: 100vh;
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url('../img/backgroundImage.jpeg');
+  background-size:cover;
+    background-position:center;
+    background-attachment: fixed;
 }
+
 .row {
   display: flex;
   justify-content: center;
