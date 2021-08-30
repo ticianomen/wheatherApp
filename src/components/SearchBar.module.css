@@ -1,0 +1,46 @@
+.divSearch{
+    display: flex;
+    width: 280px;
+    height: 40px;
+    justify-content:center;
+    margin:5px;
+}
+
+.textBox{
+    border-radius: 5px;
+    border: solid 1px rgb(71, 71, 71);
+    margin-bottom: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
+.buttonAdd{
+    color: rgb(132, 204, 168);
+    background-color: transparent;
+    border: solid 1px rgb(132, 204, 168);
+    border-radius: 5px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.buttonAdd:hover{
+    background-color: rgb(132, 204, 168);
+    color: #000;
+}
+
+.navText{
+    color: white;
+    text-align: left;
+    margin: 5px;
+    font-size: 1.5rem;
+}
+
+.Navi{
+    background-color: rgb(108, 103, 121);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 50px;
+}
+.logo{
+    margin:10px;
+}
