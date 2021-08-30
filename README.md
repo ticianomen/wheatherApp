@@ -8,7 +8,7 @@ Weather APP that consumes API WEATHER to show wheather in real time in different
 For this project we consumed the Wheather API(http://api.openweathermap.org/)
 with a free API Key given by them
 
-### GETTING STARTED
+### Getting Started
 
 I left the API key inside de code
 just run:
