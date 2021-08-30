@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+body{
+
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url('../img/backgroundImage.jpeg');
+}
+.row {
+  display: flex;
+  justify-content: center;
+}
