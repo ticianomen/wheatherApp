@@ -5,8 +5,20 @@ Weather APP that consumes API WEATHER to show wheather in real time in different
 
 ### API
 
-[Si tiene Api va acá de esta manera: For this project we consumed the [NombreDeLaAPI](Link de la API)]
+For this project we consumed the Wheather API(http://api.openweathermap.org/)
+with a free API Key given by them
+
+### GETTING STARTED
+
+I left the API key inside de code
+just run:
+npm install
+
+npm start
 
 ### Demo
 
-[Si hay link del proyecto deployeado, va acá]
+<img width="1915" alt="3" src="https://user-images.githubusercontent.com/83244923/131283930-474def2f-2e27-40f6-ad0f-f537c3419f4e.png">
+<img width="1909" alt="1" src="https://user-images.githubusercontent.com/83244923/131283934-bb28161f-d327-4c36-84c0-bef91a90cc89.png">
+<img width="1916" alt="2" src="https://user-images.githubusercontent.com/83244923/131283935-f61f82f6-c036-48a4-8f26-a69900a05c01.png">
+
