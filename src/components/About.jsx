@@ -1,6 +1,6 @@
 export default function About(){
 return(
-    <div>
+    <div style={{color:'#ccc'}}>
         <h1>Soy Ticiano Mensegue</h1>
         <p>
             Esta aplicacion muestra el clima en nuestras ciudades favoritas
